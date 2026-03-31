@@ -36,7 +36,7 @@
 ```javascript
 const Developer = {
   name: "Shahzaib Awan",
-  role: "Full-Stack Developer | AI/ML Learner",
+  role: "Full-Stack Developer | AI/ML Developer",
   mission: "Crafting scalable, intelligent, and user-centric digital solutions 🚀",
 
   stack: {
