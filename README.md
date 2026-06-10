@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3800&pause=900&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=110&lines=🚀+Full+Stack+Developer+%7C+AI%2FAutomation+Learner;✨+Creating+Smart%2C+Scalable+Digital+Experiences;🚀+Always+Building%2C+Learning%2C+Leveling+Up)](https://github.com/shahzaib-awann)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3800&pause=900&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=110&lines=🚀+Full+Stack+Developer;✨+Building+Production-Ready+SaaS+and+AI+Applications;⚡+Web+•+Mobile+•+Desktop+Software+Engineering)](https://github.com/Shahzaib-Awann)
 
 <br/>
 
