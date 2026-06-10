@@ -33,32 +33,41 @@
   max-width: 800px;
 ">
 
-```javascript
-const Developer = {
-  name: "Shahzaib Awan",
-  role: "Full-Stack Developer | AI/ML Developer",
-  mission: "Crafting scalable, intelligent, and user-centric digital solutions 🚀",
 
-  stack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "Next.js Actions/APIs", "Express"],
-    database: ["MySQL (Drizzle)", "SQLite"],
-    tools: ["Git", "GitHub", "Postman", "VSCode"],
+```typescript
+const developer = {
+  name: "Shahzaib Awan",
+  role: "Full Stack Developer",
+
+  specialization: ["SaaS Platforms", "AI-Powered Applications",
+                   "Mobile Applications", "Cross-Platform Desktop Software"],
+
+  expertise: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "ShadCN UI"],
+    backend: ["Node.js", "Next.js Server Actions", "REST APIs", "Auth.js"],
+    databases: ["MySQL", "SQLite", "Drizzle ORM"],
+    mobile: ["React Native", "Expo"],
+    desktop: ["Tauri" ],
+    ai: ["LLM Integration", "AI Workflows", "Generative AI Applications"],
   },
 
-  learning: ["AI Integrations", "Python", "Advanced Backend"],
-  focus: ["Scalable apps", "AI-driven features", "Clean UI/UX", "Automation"],
-  
-  philosophy: "Build with clarity, learn relentlessly, create impact.",
+  focus: [
+    "System Architecture", "Authentication & RBAC",
+    "Database Design", "Performance Optimization",
+    "Scalable Software Systems",
+  ],
+
+  principle: "Build reliable software, optimize for scale, and create products that deliver measurable business value.",
 };
 ```
 
+
 <div align="center">
-
-✨ _Next.js • TypeScript • Drizzle ORM • MySQL • Tailwind CSS • React Native (Expo) • Python_  
-I’m passionate about building **real-world solutions**, designing **smooth UIs**, and discovering how **AI can enhance workflows and products**.
-
+  <p>Designing and shipping modern software systems across web, mobile, desktop, and AI-driven platforms.</p>
+  <p><i> ✨ Next.js • TypeScript • React • React Native • Node.js • MySQL • SQLite • Drizzle ORM • Auth.js • Tauri</i></p>
+  <p>Specializing in SaaS products, business systems, authentication architecture, data platforms, and cross-platform application development.</p>
 </div>
+
 
 <br />
 
@@ -85,19 +94,18 @@ I’m passionate about building **real-world solutions**, designing **smooth UIs
 <div align="center">
 
   <!-- First row: GitHub stats + Streak stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-awann&show_icons=true&theme=dark&hide_border=true&icon_color=0D74E7&count_private=true" 
-       style="width:48%; min-width:250px; max-width:375px; display:inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahzaib-awann&theme=dark&hide_border=true&ring=0D74E7&fire=0D74E7&currStreakLabel=0D74E7&count_private=true" 
-       style="width:48%; min-width:250px; max-width:375px; display:inline-block;" />
-
+  <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahzaib-awann&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-awann&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
   <br><br>
+  </p>
 
   <!-- Second row: Top languages + Trophy -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-awann&layout=compact&theme=dark&hide_border=true&count_private=true" 
-       style="width:48%; min-width:250px; max-width:375px; display:inline-block;" />
-       
-  <img src="https://github-profile-trophy.vercel.app/?username=shahzaib-awann&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" 
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahzaib-Awann&theme=github-dark-blue&hide_border=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahzaib-awann&theme=github-dark-blue&no-frame=true&no-bg=true&row=1&column=7" 
        width="100%" />
+</p>
 
 </div>
 
@@ -111,7 +119,8 @@ I’m passionate about building **real-world solutions**, designing **smooth UIs
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-awan-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://shahzaibawan.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-awann)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shahzaibawan1357@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/shahzaibawan)
 
